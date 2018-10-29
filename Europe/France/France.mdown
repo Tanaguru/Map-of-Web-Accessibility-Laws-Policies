@@ -1,0 +1,28 @@
+# Web Accessibility laws in France
+
+##Public organisations
+###Law n° 2005-102 - 11 february 2005: ### 
+Law for the equality of rights and chances, the participation and citizenship for disabled people 
+**Article 47**: 
+The international guidelines for web accessibility should be applied for online public communication services. 
+The online public communication services of the government services, regional governments and dependant public institutions should be accessible to disabled people. 
+Failure to bring a communication service to the public with the accessibility obligations shall be subject to an administrative penalty, the amount which may not exceed €25,000, shall be fixed by a decree of the Council of State
+[Article 47 (in French)](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647)
+###"Work law"  n° 2016-1088 - 8 august 2016: ###
+Law related to work, to the modernisation of social dialogue and securing professional careers.
+**Article 56** 
+The employer ensures that sofwares installed on disabled users work station, and necessary to their professional work, are accessible. He ensures as well that the work stations for disabled people are accessible for remote working. 
+[Article 47 (in French)](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=635EB1E0CFC14D95469F27F623495EF9.tplgfr42s_2?idArticle=JORFARTI000032984272&cidTexte=JORFTEXT000032983213&dateTexte=29990101&categorieLien=id)
+###Transposition of the European directive###
+Should be vote in January 2019
+
+##Private organisations##
+### Law n° 2005-102 - 11 february 2005: ###
+Extends the obligation to private organisations whose sales revenue in France exceeds a certain amount (set by decree).
+**Article 47**
+[Article 47 (in French)](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647)
+
+##Methodology##
+The RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.
+[RGAA](http://rgaa.tanaguru.com/fr/criteres.html)
+[RGAA - in French](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)

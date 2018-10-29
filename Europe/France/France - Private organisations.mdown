@@ -1,4 +1,0 @@
-# Web Accessibility laws in France
-
-Dependencies: European Web Accessibility laws
-
