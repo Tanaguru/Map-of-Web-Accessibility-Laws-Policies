@@ -1,0 +1,26 @@
+# Web Accessibility laws in United Kingdom
+## Public organisations
+### Law 
+resume
+**Law article**: 
+scope
+[[https://#|Article]]
+
+### Transposition of the European directive
+National transpositions by Member State
+
+## Private organisations
+### Law
+resume
+**Law article**: 
+scope
+[[https://#|Article]]
+
+## Methodology
+did you have a local guidelines for accessibility or do you only use Wcag
+
+Example in france:
+The RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.
+[[http://rgaa.tanaguru.com/fr/criteres.html|RGAA]]
+[[https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html|RGAA (in French)]]
+

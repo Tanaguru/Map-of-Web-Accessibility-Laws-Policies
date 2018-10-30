@@ -1,0 +1,455 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "shortCredit": "Tanaguru",
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {},
+    "tilelayer": {
+      "attribution": "Map tiles by [[http://cartodb.com/attributions#basemaps|CartoDB]], under [[https://creativecommons.org/licenses/by/3.0/|CC BY 3.0]]. Data by [[http://www.openstreetmap.org/|OpenStreetMap]], under ODbL.",
+      "url_template": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+      "tms": false,
+      "minZoom": 0,
+      "maxZoom": 20,
+      "name": "Positron"
+    },
+    "licence": {
+      "url": "http://www.data.gouv.fr/Licence-Ouverte-Open-Licence",
+      "name": "Licence ouverte/Open Licence"
+    },
+    "description": "",
+    "name": "Global Accessibility Laws",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 6
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      51
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            },
+            "name": "Australia",
+            "description": "Disability Discrimination Act 1992\n27 December 2011\ntaking into account amendments up to Act No. 46 of 2011\nhttps://www.legislation.gov.au/Details/C2012C00110"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              136.31835937500003,
+              -22.998851594142923
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "LEI Nº 12.527, DE 18 DE NOVEMBRO DE 2011.\n Esta Lei dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações\nhttp://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2011/Lei/L12527.htm",
+            "name": "Brazil"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -50.71289062500001,
+              -12.125264218331578
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            },
+            "name": "Canada",
+            "description": "Canadian Human Rights Act (R.S.C., 1985, c. H-6)\nAct current to 2018-10-03 and last amended on 2017-06-19\nhttps://laws-lois.justice.gc.ca/eng/acts/h-6/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -107.92968750000001,
+              59.66774058164963
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "China",
+            "description": "LAW OF THE PEOPLE' S REPUBLIC OF CHINA ON THE PROTECTION OF DISABLED PERSONS, 1990\nhttp://www.npc.gov.cn/englishnpc/Law/2011-02/14/content_1620414.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              107.49023437500001,
+              33.797408767572485
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Denmark",
+            "description": "Lov om tilgængelighed af offentlige organers websteder og mobilapplikationer (LOV nr 692 af 08/06/2018)\nhttps://digst.dk/digital-service/webtilgaengelighed/lov-om-webtilgaengelighed/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.074707031250002,
+              55.801280971180454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Finland",
+            "description": "JHS 190 \nJulkisten verkkopalvelujen suunnittelu ja kehittäminen\nhttp://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              26.081542968750004,
+              62.95522304515911
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "popupTemplate": "Large",
+              "showLabel": true,
+              "labelInteractive": true,
+              "iconClass": "Drop",
+              "color": "MediumVioletRed"
+            },
+            "name": "France",
+            "description": "# Web Accessibility laws in France\n## Public organisations\n### Law n° 2005-102 - 11 february 2005:\nLaw for the equality of rights and chances, the participation and citizenship for disabled people \n**Article 47**: \nThe international guidelines for web accessibility should be applied for online public communication services. \nThe online public communication services of the government services, regional governments and dependant public institutions should be accessible to disabled people. \nFailure to bring a communication service to the public with the accessibility obligations shall be subject to an administrative penalty, the amount which may not exceed €25,000, shall be fixed by a decree of the Council of State\n[[https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647|Article 47 (in French)]]\n### \"Work law\"  n° 2016-1088 - 8 august 2016:\nLaw related to work, to the modernisation of social dialogue and securing professional careers.\n**Article 56** \nThe employer ensures that sofwares installed on disabled users work station, and necessary to their professional work, are accessible. He ensures as well that the work stations for disabled people are accessible for remote working. \n[[https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=635EB1E0CFC14D95469F27F623495EF9.tplgfr42s_2?idArticle=JORFARTI000032984272&cidTexte=JORFTEXT000032983213&dateTexte=29990101&categorieLien=id|Article 56 (in French)]]\n### Transposition of the European directive\nShould be vote in January 2019\n## Private organisations\n### Law n° 2005-102 - 11 february 2005:\nExtends the obligation to private organisations whose sales revenue in France exceeds a certain amount (set by decree).\n**Article 47**\n[[https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647|Article 47 (in French)]]\n## Methodology\nThe RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.\n[[http://rgaa.tanaguru.com/fr/criteres.html|RGAA]]\n[[https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html|RGAA (in French)]]"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              2.8564453125000004,
+              46.86019101567027
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "popupTemplate": "Default",
+              "showLabel": true,
+              "labelInteractive": true
+            },
+            "name": "Germany",
+            "description": "BGG\nGesetz zur Gleichstellung von Menschen mit Behinderungen\nhttps://www.gesetze-im-internet.de/bgg/index.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.953613281250002,
+              51.37178037591739
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Iceland",
+            "description": "Aðgengisstefna fyrir opinbera vefi\nmaí 2012\nhttps://www.stjornarradid.is/verkefni/upplysingasamfelagid/opinberir-vefir/adgengisstefna/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -18.940429687500004,
+              64.69910544204765
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "India",
+            "description": "GUIDELINES FOR\nINDIAN GOVERNMENT WEBSITES\nhttps://guidelines.gov.in/\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              78.39843750000001,
+              19.476950206488414
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Ireland",
+            "description": "DISABILITY ACT 2005\nUpdated to 25 May 2018\nhttp://revisedacts.lawreform.ie/eli/2005/act/14/revised/en/html\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -8.173828125000002,
+              53.22576843579022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Italy",
+            "description": "Disposizioni per favorire l’accesso dei soggetti disabili agli strumenti informatici\nLegge 9 gennaio 2004, n. 4\nhttp://www.camera.it/parlam/leggi/04004l.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.909179687500002,
+              43.42100882994726
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Japan",
+            "description": "JISC recommendations\nIn March 2016, JISC revised JIS X 8341-3\nhttp://www.jisc.go.jp/eng/jis-act/index.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              139.65820312500003,
+              37.23032838760387
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Luxembourg",
+            "description": "Renow\nhttps://renow.public.lu/fr.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              6.113891601562501,
+              49.74933075001045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Malta",
+            "description": "Equal Opportunities (personns with disability) Act\nhttp://justiceservices.gov.mt/DownloadDocument.aspx?app=lom&itemid=8879&l=1"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.422988891601564,
+              35.89350026142572
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "popupTemplate": "Default",
+              "showLabel": true,
+              "labelInteractive": true
+            },
+            "name": "Norway",
+            "description": "Lov om likestilling og forbud mot diskriminering\nhttps://lovdata.no/dokument/NL/lov/2017-06-16-51"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.789062500000002,
+              61.05828537037916
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Philippines",
+            "description": "Manila Declaration on Accessible Information and Communications Technology (ICT)\nMarch 3-7, 2003"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              123.44238281250001,
+              10.617418067950293
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Portugal",
+            "description": "Lei n.º 46/2006\nProíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde\nhttps://dre.pt/web/guest/pesquisa/-/search/540797/details/maximized"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -8.020019531250002,
+              40.29628651711716
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Quebec",
+            "description": "SGQRI 008 2.0\nStandard sur l’accessibilité\ndes sites Web\nhttps://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/accessibilite-du-web/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -71.40014648437501,
+              47.010225655683485
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "South Korea",
+            "description": "장애인차별금지 및 권리구제 등에 관한 법률\n[시행 2018.6.20.]\nhttp://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B0%8F%EA%B6%8C%EB%A6%AC%EA%B5%AC%EC%A0%9C%EB%93%B1%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              127.96875000000001,
+              37.020098201368114
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Spain",
+            "description": "Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.\nhttps://www.boe.es/buscar/act.php?id=BOE-A-2002-13758"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -3.6254882812500004,
+              39.62261494094297
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Sweden",
+            "description": "Diskrimineringslag (2008:567)\nhttp://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/diskrimineringslag-2008567_sfs-2008-567"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.721679687500002,
+              59.712097173322924
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Switzerland",
+            "description": "Loi fédérale sur l'élimination des inégalités frappant les personnes handicapées\n(Loi sur l'égalité pour les handicapés, LHand)\ndu 13 décembre 2002 (Etat le 1er janvier 2017)\nhttps://www.admin.ch/opc/fr/classified-compilation/20002658/index.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.031005859375002,
+              46.927758623434435
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "The Nederlands",
+            "description": "Wet gelijke behandeling op grond van handicap of chronische ziekte\nGeldend van 01-01-2017 t/m heden\nhttps://wetten.overheid.nl/BWBR0014915/2017-01-01"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              5.559082031250001,
+              52.32191088594773
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconClass": "Drop",
+              "color": "MediumVioletRed"
+            },
+            "name": "United Kingdom",
+            "description": "Equality Act 2010\nPublished 27 February 2013 Last updated 16 June 2015\nhttps://www.gov.uk/guidance/equality-act-2010-guidance\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.8676757812500002,
+              53.91728101547621
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "United States Of America",
+            "description": "Section 508 Amendment to the Rehabilitation Act of 1973\nhttps://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -100.19531250000001,
+              37.23032838760387
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "English",
+        "description": "Global Accessibility Laws",
+        "showLabel": true,
+        "labelInteractive": true,
+        "id": 53601,
+        "popupTemplate": "Large",
+        "type": "Cluster",
+        "cluster": {}
+      }
+    }
+  ]
+}
