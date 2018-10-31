@@ -78,6 +78,20 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Austria",
+            "description": "# Web Accessibility laws in Austria\n## Public organisations\n### Law of 8 November 2017 amending the Tiroler Anti-Discrimination Act 2005\nWebsites and mobile applications of the state of Tyrol, the municipalities, the municipal associations, the self-governing body established by provincial law and the other legal entities of public law established by provincial law have the requirements for barrier-free access\n**Law of 8 November 2017**: \n[[https://www.ris.bka.gv.at/Dokumente/LgblAuth/LGBLA_TI_20171222_127/LGBLA_TI_20171222_127.pdfsig|Law of 8 November 2017 (in german)]]"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.952636718750002,
+              47.368594345213374
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Belgium",
             "description": "# Web Accessibility laws in Belgium\n## Public organisations\n### Law on the accessibility of websites and mobile applications of public organisations,JULY 19, 2018. - \n**Law of 19 july 2018**: \nThis law transposes the provisions of Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of websites and mobile applications of public organisations.\n[[https://www.etaamb.be/fr/loi-du-19-juillet-2018_n2018040577.html|Loi relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public]]"
           },
@@ -386,7 +400,7 @@
           "type": "Feature",
           "properties": {
             "name": "Portugal",
-            "description": "Lei n.º 46/2006\nProíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde\nhttps://dre.pt/web/guest/pesquisa/-/search/540797/details/maximized"
+            "description": "# Web Accessibility laws in United Kingdom\n## Public organisations\n### Decree Law n. 83/2018, of 19 October\nThis decree-law transposes to the order Directive 2016/2102 of the European Parliament and of the Parliament and of the Council of 26 October 2016 onthe accessibility of websites and mobile applications of public  organisations.\n**Decree Law n. 83/2018, of 19 October**: \n[[https://dre.pt/application/conteudo/116734769|Decree Law n. 83/2018, of 19 October (in Portuguese)]]\n\n### Lei n.º 46/2006\n**Lei n.º 46/2006**: \n[[https://dre.pt/web/guest/pesquisa/-/search/540797/details/maximized|Lei n.º 46/2006 (in Portuguese)]]"
           },
           "geometry": {
             "type": "Point",
@@ -407,6 +421,20 @@
             "coordinates": [
               -71.40014648437501,
               47.010225655683485
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Slovenia",
+            "description": "# Web Accessibility laws in Slovenia\n## Public organisations\n### Act on the availability of websites and mobile applications\n**ZDSMA**: \n[[http://www.pisrs.si/Pis.web/npbDocPdf?idPredpisa=ZAKO7718&type=pdf|Act on the availability of websites and mobile applications (PDF, 154Ko)]]"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.754638671875002,
+              46.15700496290803
             ]
           }
         },
