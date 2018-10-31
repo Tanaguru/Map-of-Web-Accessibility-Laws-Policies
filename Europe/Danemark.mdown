@@ -1,13 +1,10 @@
-# Web Accessibility laws in United Kingdom
+# Web Accessibility laws in Danemark
 ## Public organisations
-### Law 
-resume
+### Law on the accessibility of public organisations websites and mobile applications
 **Law article**: 
-scope
-[[https://#|Article]]
-
-### Transposition of the European directive
-National transpositions by Member State
+This Act applies to public agencies' websites and mobile applications
+The Act implements Directive 2016/2102 / EU of the European Parliament and of the Council of 26 October 2016 on the accessibility of public bodies' websites and mobile applications,
+[[https://www.retsinformation.dk/Forms/R0710.aspx?id=201794|Law on the accessibility of public organisations websites and mobile applications (in Danish)]]
 
 ## Private organisations
 ### Law

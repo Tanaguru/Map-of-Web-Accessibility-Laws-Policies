@@ -1,13 +1,10 @@
 # Web Accessibility laws in United Kingdom
 ## Public organisations
-### Law 
-resume
-**Law article**: 
-scope
-[[https://#|Article]]
-
-### Transposition of the European directive
-National transpositions by Member State
+### Royal Decree 1112/2018, of 7 September 2018, on accessibility of websites and applications for mobile devices in the public sector
+This Royal Decree aims to guarantee the accessibility requirements of websites and applications for mobile devices of public sector bodies and other obligated parties
+ For the purposes of this royal decree accessibility is understood as the set of principles and techniques that must be respected when designing, building, maintaining and updating web sites and applications for mobile devices to guarantee equality and non-discrimination in the access of the users, in particular of people with disabilities and of the elderly.
+**Royal Decree 1112/2018**: 
+[[http://noticias.juridicas.com/base_datos/Admin/628415-rd-1112-2018-de-7-sep-accesibilidad-de-los-sitios-web-y-aplicaciones-para.html#a1#|Royal Decree 1112/2018 (in spanish)]]
 
 ## Private organisations
 ### Law

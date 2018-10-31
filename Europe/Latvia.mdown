@@ -1,8 +1,8 @@
-# Web Accessibility laws in ItalY
+# Web Accessibility laws in Latvia
 ## Public organisations
-### LEGISLATIVE DECREE 10 August 2018, n. 106
-Implementation of directive (EU) 2016/2102 on the accessibility of websites and mobile applications of public organisations
-[[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018;106|LEGISLATIVE DECREE 10 August 2018, n. 106]]
+### The Law on Information Freedom Rīgā 2018. gada 25. septembrī (prot. Nr. 44 38. §)
+These Regulations determine the procedures by which institutions place information on the Internet.
+[[https://likumi.lv/ta/id/301865-kartiba-kada-iestades-ievieto-informaciju-interneta|The Law on Information Freedom (in Lithuanian)]]
 
 ## Private organisations
 ### Law

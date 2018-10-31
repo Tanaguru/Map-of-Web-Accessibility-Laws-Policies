@@ -1,8 +1,9 @@
-# Web Accessibility laws in ItalY
+# Web Accessibility laws in Belgium
 ## Public organisations
-### LEGISLATIVE DECREE 10 August 2018, n. 106
-Implementation of directive (EU) 2016/2102 on the accessibility of websites and mobile applications of public organisations
-[[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018;106|LEGISLATIVE DECREE 10 August 2018, n. 106]]
+### Law on the accessibility of websites and mobile applications of public organisations,JULY 19, 2018. - 
+**Law of 19 july 2018**: 
+This law transposes the provisions of Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of websites and mobile applications of public organisations.
+[[https://www.etaamb.be/fr/loi-du-19-juillet-2018_n2018040577.html|Loi relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public]]
 
 ## Private organisations
 ### Law
