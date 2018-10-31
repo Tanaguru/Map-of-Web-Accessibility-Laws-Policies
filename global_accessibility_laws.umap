@@ -42,6 +42,20 @@
   "layers": [
     {
       "type": "FeatureCollection",
+      "features": [],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Germany",
+        "id": 53600,
+        "remoteData": {},
+        "description": "BGG",
+        "type": "Cluster",
+        "cluster": {}
+      }
+    },
+    {
+      "type": "FeatureCollection",
       "features": [
         {
           "type": "Feature",
@@ -58,6 +72,20 @@
             "coordinates": [
               136.31835937500003,
               -22.998851594142923
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Belgium",
+            "description": "# Web Accessibility laws in Belgium\n## Public organisations\n### Law on the accessibility of websites and mobile applications of public organisations,JULY 19, 2018. - \n**Law of 19 july 2018**: \nThis law transposes the provisions of Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of websites and mobile applications of public organisations.\n[[https://www.etaamb.be/fr/loi-du-19-juillet-2018_n2018040577.html|Loi relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public]]"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              4.537353515625001,
+              50.84757295365389
             ]
           }
         },
@@ -97,7 +125,11 @@
           "type": "Feature",
           "properties": {
             "name": "China",
-            "description": "LAW OF THE PEOPLE' S REPUBLIC OF CHINA ON THE PROTECTION OF DISABLED PERSONS, 1990\nhttp://www.npc.gov.cn/englishnpc/Law/2011-02/14/content_1620414.htm"
+            "description": "LAW OF THE PEOPLE' S REPUBLIC OF CHINA ON THE PROTECTION OF DISABLED PERSONS, 1990\nhttp://www.npc.gov.cn/englishnpc/Law/2011-02/14/content_1620414.htm",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
@@ -111,7 +143,7 @@
           "type": "Feature",
           "properties": {
             "name": "Denmark",
-            "description": "Lov om tilgængelighed af offentlige organers websteder og mobilapplikationer (LOV nr 692 af 08/06/2018)\nhttps://digst.dk/digital-service/webtilgaengelighed/lov-om-webtilgaengelighed/"
+            "description": "# Web Accessibility laws in Danemark\n## Public organisations\n### Law on the accessibility of public organisations websites and mobile applications\n**Law article**: \nThis Act applies to public agencies' websites and mobile applications\nThe Act implements Directive 2016/2102 / EU of the European Parliament and of the Council of 26 October 2016 on the accessibility of public bodies' websites and mobile applications,\n[[https://www.retsinformation.dk/Forms/R0710.aspx?id=201794|Law on the accessibility of public organisations websites and mobile applications (in Danish)]]"
           },
           "geometry": {
             "type": "Point",
@@ -146,7 +178,7 @@
               "color": "MediumVioletRed"
             },
             "name": "France",
-            "description": "# Web Accessibility laws in France\n## Public organisations\n### Law n° 2005-102 - 11 february 2005:\nLaw for the equality of rights and chances, the participation and citizenship for disabled people \n**Article 47**: \nThe international guidelines for web accessibility should be applied for online public communication services. \nThe online public communication services of the government services, regional governments and dependant public institutions should be accessible to disabled people. \nFailure to bring a communication service to the public with the accessibility obligations shall be subject to an administrative penalty, the amount which may not exceed €25,000, shall be fixed by a decree of the Council of State\n[[https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647|Article 47 (in French)]]\n### \"Work law\"  n° 2016-1088 - 8 august 2016:\nLaw related to work, to the modernisation of social dialogue and securing professional careers.\n**Article 56** \nThe employer ensures that sofwares installed on disabled users work station, and necessary to their professional work, are accessible. He ensures as well that the work stations for disabled people are accessible for remote working. \n[[https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=635EB1E0CFC14D95469F27F623495EF9.tplgfr42s_2?idArticle=JORFARTI000032984272&cidTexte=JORFTEXT000032983213&dateTexte=29990101&categorieLien=id|Article 56 (in French)]]\n### Transposition of the European directive\nShould be vote in January 2019\n## Private organisations\n### Law n° 2005-102 - 11 february 2005:\nExtends the obligation to private organisations whose sales revenue in France exceeds a certain amount (set by decree).\n**Article 47**\n[[https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647|Article 47 (in French)]]\n## Methodology\nThe RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.\n[[http://rgaa.tanaguru.com/fr/criteres.html|RGAA]]\n[[https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html|RGAA (in French)]]"
+            "description": "# Web Accessibility laws in France\n## Public organisations\n### Law n° 2005-102 - 11 february 2005:\nLaw for the equality of rights and chances, the participation and citizenship for disabled people \n**Article 47**: \nThe international guidelines for web accessibility should be applied for online public communication services. \nThe online public communication services of the government services, regional governments and dependant public institutions should be accessible to disabled people. \nFailure to bring a communication service to the public with the accessibility obligations shall be subject to an administrative penalty, the amount which may not exceed €25,000, shall be fixed by a decree of the Council of State\n[[https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000809647&idArticle=LEGIARTI000006682279&dateTexte=&categorieLien=cid|Article 47 (in French)]]\n### \"Work law\"  n° 2016-1088 - 8 august 2016:\nLaw related to work, to the modernisation of social dialogue and securing professional careers.\n**Article 56** \nThe employer ensures that sofwares installed on disabled users work station, and necessary to their professional work, are accessible. He ensures as well that the work stations for disabled people are accessible for remote working. \n[[https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=635EB1E0CFC14D95469F27F623495EF9.tplgfr42s_2?idArticle=JORFARTI000032984272&cidTexte=JORFTEXT000032983213&dateTexte=29990101&categorieLien=id|Article 56 (in French)]]\n### Transposition of the European directive\nShould be vote in January 2019\n## Private organisations\n### Law n° 2005-102 - 11 february 2005:\nExtends the obligation to private organisations whose sales revenue in France exceeds a certain amount (set by decree).\n**Article 47**\n[[https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000809647&idArticle=LEGIARTI000006682279&dateTexte=&categorieLien=cid|Article 47 (in French)]]\n## Methodology\nThe RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.\n[[http://rgaa.tanaguru.com/fr/criteres.html|RGAA]]\n[[https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html|RGAA (in French)]]"
           },
           "geometry": {
             "type": "Point",
@@ -162,7 +194,9 @@
             "_storage_options": {
               "popupTemplate": "Default",
               "showLabel": true,
-              "labelInteractive": true
+              "labelInteractive": true,
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
             },
             "name": "Germany",
             "description": "BGG\nGesetz zur Gleichstellung von Menschen mit Behinderungen\nhttps://www.gesetze-im-internet.de/bgg/index.html"
@@ -170,8 +204,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              9.953613281250002,
-              51.37178037591739
+              10.371093750000002,
+              51.09662294502995
             ]
           }
         },
@@ -193,7 +227,11 @@
           "type": "Feature",
           "properties": {
             "name": "India",
-            "description": "GUIDELINES FOR\nINDIAN GOVERNMENT WEBSITES\nhttps://guidelines.gov.in/\n"
+            "description": "GUIDELINES FOR\nINDIAN GOVERNMENT WEBSITES\nhttps://guidelines.gov.in/\n",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
@@ -207,7 +245,11 @@
           "type": "Feature",
           "properties": {
             "name": "Ireland",
-            "description": "DISABILITY ACT 2005\nUpdated to 25 May 2018\nhttp://revisedacts.lawreform.ie/eli/2005/act/14/revised/en/html\n"
+            "description": "DISABILITY ACT 2005\nUpdated to 25 May 2018\nhttp://revisedacts.lawreform.ie/eli/2005/act/14/revised/en/html\n",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
@@ -221,7 +263,7 @@
           "type": "Feature",
           "properties": {
             "name": "Italy",
-            "description": "Disposizioni per favorire l’accesso dei soggetti disabili agli strumenti informatici\nLegge 9 gennaio 2004, n. 4\nhttp://www.camera.it/parlam/leggi/04004l.htm"
+            "description": "# Web Accessibility laws in United Kingdom\n## Public organisations\n### LEGISLATIVE DECREE 10 August 2018, n. 106\nImplementation of directive (EU) 2016/2102 on the accessibility of websites and mobile applications of public organisations\n[[http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018;106|LEGISLATIVE DECREE 10 August 2018, n. 106]]"
           },
           "geometry": {
             "type": "Point",
@@ -235,13 +277,45 @@
           "type": "Feature",
           "properties": {
             "name": "Japan",
-            "description": "JISC recommendations\nIn March 2016, JISC revised JIS X 8341-3\nhttp://www.jisc.go.jp/eng/jis-act/index.html"
+            "description": "JISC recommendations\nIn March 2016, JISC revised JIS X 8341-3\nhttp://www.jisc.go.jp/eng/jis-act/index.html",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
               139.65820312500003,
               37.23032838760387
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Latvia",
+            "description": "# Web Accessibility laws in Latvia\n## Public organisations\n### The Law on Information Freedom 25 September 2018\nThese Regulations determine the procedures by which institutions place information on the Internet.\n[[https://likumi.lv/ta/id/301865-kartiba-kada-iestades-ievieto-informaciju-interneta|The Law on Information Freedom (in Lithuanian)]]"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              25.048828125000004,
+              57.088515327886505
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Lithuania",
+            "description": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/2caac5e27b8b11e89188e16a6495e98c"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              23.917236328125004,
+              55.65279803318956
             ]
           }
         },
@@ -279,7 +353,9 @@
             "_storage_options": {
               "popupTemplate": "Default",
               "showLabel": true,
-              "labelInteractive": true
+              "labelInteractive": true,
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
             },
             "name": "Norway",
             "description": "Lov om likestilling og forbud mot diskriminering\nhttps://lovdata.no/dokument/NL/lov/2017-06-16-51"
@@ -338,7 +414,11 @@
           "type": "Feature",
           "properties": {
             "name": "South Korea",
-            "description": "장애인차별금지 및 권리구제 등에 관한 법률\n[시행 2018.6.20.]\nhttp://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B0%8F%EA%B6%8C%EB%A6%AC%EA%B5%AC%EC%A0%9C%EB%93%B1%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0"
+            "description": "장애인차별금지 및 권리구제 등에 관한 법률\n[시행 2018.6.20.]\nhttp://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B0%8F%EA%B6%8C%EB%A6%AC%EA%B5%AC%EC%A0%9C%EB%93%B1%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
@@ -352,7 +432,7 @@
           "type": "Feature",
           "properties": {
             "name": "Spain",
-            "description": "Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.\nhttps://www.boe.es/buscar/act.php?id=BOE-A-2002-13758"
+            "description": "# Web Accessibility laws in United Kingdom\n## Public organisations\n### Royal Decree 1112/2018, of 7 September 2018, on accessibility of websites and applications for mobile devices in the public sector\nThis Royal Decree aims to guarantee the accessibility requirements of websites and applications for mobile devices of public sector bodies and other obligated parties\n For the purposes of this royal decree accessibility is understood as the set of principles and techniques that must be respected when designing, building, maintaining and updating web sites and applications for mobile devices to guarantee equality and non-discrimination in the access of the users, in particular of people with disabilities and of the elderly.\n**Royal Decree 1112/2018**: \n[[http://noticias.juridicas.com/base_datos/Admin/628415-rd-1112-2018-de-7-sep-accesibilidad-de-los-sitios-web-y-aplicaciones-para.html#a1#|Royal Decree 1112/2018 (in Spanish)]]"
           },
           "geometry": {
             "type": "Point",
@@ -366,7 +446,11 @@
           "type": "Feature",
           "properties": {
             "name": "Sweden",
-            "description": "Diskrimineringslag (2008:567)\nhttp://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/diskrimineringslag-2008567_sfs-2008-567"
+            "description": "Diskrimineringslag (2008:567)\nhttp://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/diskrimineringslag-2008567_sfs-2008-567",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
@@ -380,7 +464,11 @@
           "type": "Feature",
           "properties": {
             "name": "Switzerland",
-            "description": "Loi fédérale sur l'élimination des inégalités frappant les personnes handicapées\n(Loi sur l'égalité pour les handicapés, LHand)\ndu 13 décembre 2002 (Etat le 1er janvier 2017)\nhttps://www.admin.ch/opc/fr/classified-compilation/20002658/index.html"
+            "description": "Loi fédérale sur l'élimination des inégalités frappant les personnes handicapées\n(Loi sur l'égalité pour les handicapés, LHand)\ndu 13 décembre 2002 (Etat le 1er janvier 2017)\nhttps://www.admin.ch/opc/fr/classified-compilation/20002658/index.html",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
@@ -426,7 +514,11 @@
           "type": "Feature",
           "properties": {
             "name": "United States Of America",
-            "description": "Section 508 Amendment to the Rehabilitation Act of 1973\nhttps://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508"
+            "description": "Section 508 Amendment to the Rehabilitation Act of 1973\nhttps://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508",
+            "_storage_options": {
+              "color": "MediumVioletRed",
+              "iconClass": "Drop"
+            }
           },
           "geometry": {
             "type": "Point",
