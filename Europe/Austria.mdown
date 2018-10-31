@@ -1,0 +1,25 @@
+# Web Accessibility laws in Austria
+## Public organisations
+### Law of 8 November 2017 amending the Tiroler Anti-Discrimination Act 2005
+Websites and mobile applications of the state of Tyrol, the municipalities, the municipal associations, the self-governing body established by provincial law and the other legal entities of public law established by provincial law have the requirements for barrier-free access
+**Law of 8 November 2017**: 
+[[https://www.ris.bka.gv.at/Dokumente/LgblAuth/LGBLA_TI_20171222_127/LGBLA_TI_20171222_127.pdfsig|Law of 8 November 2017 (in german)]]
+
+### Transposition of the European directive
+National transpositions by Member State
+
+## Private organisations
+### Law
+resume
+**Law article**: 
+scope
+[[https://#|Article]]
+
+## Methodology
+did you have a local guidelines for accessibility or do you only use Wcag
+
+Example in france:
+The RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.
+[[http://rgaa.tanaguru.com/fr/criteres.html|RGAA]]
+[[https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html|RGAA (in French)]]
+

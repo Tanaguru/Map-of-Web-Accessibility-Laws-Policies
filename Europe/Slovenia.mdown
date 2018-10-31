@@ -1,13 +1,13 @@
 # Web Accessibility laws in United Kingdom
 ## Public organisations
-### Decree Law n. 83/2018, of 19 October
-This decree-law transposes to the order Directive 2016/2102 of the European Parliament and of the Parliament and of the Council of 26 October 2016 onthe accessibility of websites and mobile applications of public  organisations.
-**Decree Law n. 83/2018, of 19 October**: 
-[[https://dre.pt/application/conteudo/116734769|Decree Law n. 83/2018, of 19 October (in Portuguese)]]
+### Law 
+resume
+**Law article**: 
+scope
+[[https://#|Article]]
 
-### Lei n.º 46/2006
-**Lei n.º 46/2006**: 
-[[https://dre.pt/web/guest/pesquisa/-/search/540797/details/maximized|Lei n.º 46/2006 (in Portuguese)]]
+### Transposition of the European directive
+National transpositions by Member State
 
 ## Private organisations
 ### Law
