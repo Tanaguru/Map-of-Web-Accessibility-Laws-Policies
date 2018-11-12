@@ -1,0 +1,20 @@
+# Web Accessibility laws in Switzerland
+## Public organisations
+### Law n° 151.03 - 13 december 2002:
+Federal Act on the Elimination of Inequalities Affecting Persons with Disabilities (LHand)
+
+**Article 14**: 
+As the authorities offer their services on the Internet, access to these services must not be made difficult for the visually impaired. The Federal Council shall issue the necessary technical regulations. It may declare technical standards established by private organizations mandatory.
+
+[[https://www.admin.ch/opc/fr/classified-compilation/20002658/index.html#a14|LHand (in French)]]
+### Law n° 151-31 - 19 november 2003:
+Ordinance on the Elimination of Inequalities Affecting Persons with Disabilities (OHand)
+
+**Article 10** : Information and communication or transaction services offered on the Internet must be accessible to people with speech, hearing, vision or motor disabilities. To this end, the sites must be designed in accordance with international IT standards, in particular the guidelines governing the accessibility of Internet pages, issued by the World Wide Web Consortium (W3C) and, in the alternative, national standards.
+
+[[https://www.admin.ch/opc/fr/classified-compilation/20031813/index.html#a10|OHand (in French)]]
+
+### Confederation Guideline P028 V 2.03 - 31 march 2016 :
+Confederation Guidelines for the Development of Easily Accessible Internet Sites
+
+[[https://www.isb.admin.ch/isb/fr/home/ikt-vorgaben/prozesse-methoden/p028-richtlinien_bund_gestaltung_barrierefreie_internetangebote.html|Guideline P028 (in French)]]
