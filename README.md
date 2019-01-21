@@ -33,5 +33,6 @@ did you have local guidelines for web accessibility or do you only use Wcag
 
 Example in France:
 The RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium.
-[[http://rgaa.tanaguru.com/fr/criteres.html|RGAA]]
-[[https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html|RGAA (in French)]]
+
+* [RGAA](http://rgaa.tanaguru.com/fr/criteres.html)
+* [RGAA (in French)](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)
