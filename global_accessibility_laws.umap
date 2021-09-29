@@ -337,7 +337,7 @@
           "type": "Feature",
           "properties": {
             "name": "Luxembourg",
-            "description": "Renow\nhttps://renow.public.lu/fr.html"
+            "description": "https://accessibilite.public.lu/"
           },
           "geometry": {
             "type": "Point",

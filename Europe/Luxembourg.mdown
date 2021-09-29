@@ -1,0 +1,27 @@
+# Web Accessibility laws in Luxembourg
+## Public organisations
+### Law A373 - 28 may 2019:
+Law of May 28, 2019, relating to the accessibility of websites and mobile applications of public sector bodies. 
+**Article 1 & 2**: 
+
+According to Articles 1 and 2 of the Act of May 28, 2019 on the accessibility of websites and mobile applications of public sector bodies, are concerned by the accessibility obligation websites and mobile applications public sector bodies, that is:
+
+- the State ;
+- the municipalities ;
+- public law bodies. According to Article 2, letter d), of the amended law of April 8, 2018 on public procurement, these are the bodies with all the following characteristics:
+ - it has been created to specifically satisfy needs in the general interest that are not of an industrial or commercial nature;
+ - it has legal personality; and
+ - either it is financed for the most part by the State, the municipalities or other bodies governed by public law, or its management is subject to control by these authorities or bodies, or its administrative, management or supervisory body is composed of members, more than half of whom are appointed by the State, the municipalities or other bodies governed by public law.
+ - associations formed by one or more of these authorities or bodies governed by public law, if these associations were created to specifically meet needs in the general interest that are not industrial or commercial in nature;
+
+This does not include:
+
+- websites and mobile applications of public service broadcasters and their subsidiaries and of other organizations or their subsidiaries that perform a public service broadcasting mission;
+- Websites and mobile applications of non-governmental organizations that do not provide essential services to the public, or services that specifically address the needs of or for people with disabilities;
+- Websites and mobile applications of elementary and secondary schools or day care centers, except for content related to essential online administrative functions.
+
+[Source, in French](https://legilux.public.lu/eli/etat/leg/loi/2019/05/28/a373/jo)
+
+## Methodology
+
+The RGAA (General Accessibility Framework for Administrations) aims to verify the accessibility of content and applications presented in digital form and operable through a Web browser, whatever the medium. Luxembourg has adopted the RGAA as framework, and transcripted the methodologies on a [dedicated website](https://accessibilite.public.lu/)
